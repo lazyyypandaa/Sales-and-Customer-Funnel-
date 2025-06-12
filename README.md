@@ -24,6 +24,6 @@ This repository showcases solving real-world business problems using SQL and Pow
 - Dashboard allow users to drill through from summary visuals (like charts and KPIs) to see underlying records
 - It enable users to explore data at a granular level, such as individual orders, customers, or product types
 
-
-
-
+## Tools Used
+- MySql - Data analysis
+- PowerBi - Creating reports

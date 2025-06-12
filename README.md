@@ -27,6 +27,3 @@ This repository showcases solving real-world business problems using SQL and Pow
 ## Tools Used
 - MySql - Data analysis
 - PowerBi - Creating reports
-
-## Live Dashboard Link -[ Sales and Customer Funnel Dashboard
-]([url](https://app.powerbi.com/groups/me/reports/600fa554-ebe8-449c-8be4-29e8cf0010f2/c80007b3467f375fe3ef?experience=power-bi))
